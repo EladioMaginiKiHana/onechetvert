@@ -35,7 +35,7 @@ Cоздал документ *.gitignore*
 
 С помощью  Draw.io Integration  построил блок-схему. При написание самого кода возможно выглядеть будет иначе
 
-![Shema](123.png)
+![Shema](https://github.com/EladioMaginiKiHana/onechetvert/blob/master/img/123.png)
 
  
 ## ***3. Снабдить репозиторий текстовым описанием решения***
